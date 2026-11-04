@@ -158,5 +158,4 @@ in
     };
     noctalia = "${nc}/vscode/vscode.json";
   };
-  surgedm = single "noctalia" "${nc}/surgedm/surgedm.toml";
 }
