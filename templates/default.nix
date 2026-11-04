@@ -158,4 +158,9 @@ in
     };
     noctalia = "${nc}/vscode/vscode.json";
   };
+  opencode = withDefault "matugen" {
+    matugen = "${mt}/opencode-colors.json";
+    noctalia = "${nc}/opencode/opencode.json";
+  };
+  pi-agent = single "noctalia" "${nc}/pi-agent/pi-theme.json";
 }
