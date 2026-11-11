@@ -163,4 +163,5 @@ in
     noctalia = "${nc}/opencode/opencode.json";
   };
   pi-agent = single "noctalia" "${nc}/pi-agent/pi-theme.json";
+  glow = single "noctalia" "${nc}/glow/glow.json";
 }
