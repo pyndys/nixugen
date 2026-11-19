@@ -11,8 +11,8 @@
   "dux": {
     "owner": "duxlabs-dev",
     "repo": "dux-shell",
-    "rev": "07cf4777b7b81f9bf8b88ddf26df16895af1d2f1",
-    "hash": "sha256-JZ9YXs6wY4fRPJL+4YAWc+SFe/3y6oc7RXtfqMNrOvc=",
+    "rev": "35657a5f674b5b3552d1dc7ecafdc266acd27e6d",
+    "hash": "sha256-sg720dld5TOVHN23S9Ujpja2gv3dX+9qLUNrbNFRrfg=",
     "sparseCheckout": [
       "quickshell/matugen/templates"
     ]
@@ -20,7 +20,7 @@
   "noctalia": {
     "owner": "noctalia-dev",
     "repo": "noctalia",
-    "rev": "bf887d5b8867e952f24351759dc3e9b74f130316",
+    "rev": "57982cbc1adaad1673a8c42f5795e286f9fb5194",
     "hash": "sha256-a70mLzDlH3xXGkNau830qKD9mRiBG+IfalPL84KE4XY=",
     "sparseCheckout": [
       "assets/templates"
